@@ -6,3 +6,7 @@ opencv-python
 deepface
 tf-keras
 
+
+#downloaded
+python 3.11.6
+opencv-python
