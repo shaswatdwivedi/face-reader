@@ -7,6 +7,9 @@ deepface
 tf-keras
 
 
-#downloaded
+# downloaded
 python 3.11.6
 opencv-python
+
+# code
+I wrote the code in python
